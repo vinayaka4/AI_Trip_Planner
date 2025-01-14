@@ -1,8 +1,28 @@
-# React + Vite
+# **Project Name**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern web application leveraging advanced technologies like **Gemini AI** for personalized and intelligent features, built using **Vite**, **React**, and multiple Google APIs. This project is a testament to combining cutting-edge tools to create seamless, user-friendly experiences.
 
-Currently, two official plugins are available:
+## **Key Features**
+- **Google Place API:** Effortlessly fetch and display location-based data.
+- **Google Authentication:** Secure login system with Google OAuth.
+- **Google Photos API:** Access and display user photos.
+- **Google Maps API:** Interactive and engaging mapping functionalities.
+- **Gemini AI Integration:** Highlighted for delivering state-of-the-art AI-driven personalized experiences and advanced capabilities.
+- **Shadcn:** Structured, reusable UI components for consistent design.
+- **Tailwind CSS:** Responsive and customizable styling framework.
+- **Deployed on Vercel:** Scalable, high-performance hosting for global accessibility.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## **Technologies Used**
+- **Vite:** Fast and optimized development environment.
+- **React:** Modular library for building dynamic user interfaces.
+- **Google APIs:** Comprehensive integration for maps, places, photos, and authentication.
+- **Gemini AI API:** Highlighted AI-powered engine for personalization and intelligent content delivery.
+- **Shadcn:** Design system for consistency and usability in UI components.
+- **Tailwind CSS:** Flexible, responsive styling for modern web applications.
+- **Vercel:** Reliable deployment platform for seamless scalability and performance.
+
+## **Setup Instructions**
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/project-name.git
+   cd project-name
